@@ -1,8 +1,8 @@
 {
   "name": "webpack-express",
   "version": "1.0.0",
-  "main": "index.js",
-  "repository": "sds",
+  "main": "src/index.ts",
+  "repository": "https://github.com/mnsmarcelo/webpack-express",
   "author": "Marcelo Sousa",
   "license": "MIT",
   "scripts": {
